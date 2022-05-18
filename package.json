@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git",
+      "/work/outsource/xxm/workspace/xxm-app-mall"
+    ]
+  ],
+  "_from": "git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git",
+  "_id": "teaset@git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git#f891ee3a0f579a0c08839bca78025b0efaaf362a",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/teaset",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git",
+    "rawSpec": "git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git",
+    "saveSpec": "git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git",
+    "fetchSpec": "ssh://git@github.com/robin-zhigeng/xxm-teaset.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git#f891ee3a0f579a0c08839bca78025b0efaaf362a",
+  "_spec": "git+ssh://git@github.com/robin-zhigeng/xxm-teaset.git",
+  "_where": "/work/outsource/xxm/workspace/xxm-app-mall",
+  "author": {
+    "name": "rilyu"
+  },
+  "bugs": {
+    "url": "https://github.com/rilyu/teaset/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-deprecated-custom-components": "github:facebookarchive/react-native-custom-components"
+  },
+  "description": "A UI library for react native.",
+  "homepage": "https://github.com/rilyu/teaset#readme",
+  "keywords": [
+    "teaset",
+    "react",
+    "native",
+    "UI",
+    "library",
+    "framework"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "teaset",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rilyu/teaset.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.3"
+}
